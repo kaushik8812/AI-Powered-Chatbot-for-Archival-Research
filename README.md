@@ -29,13 +29,6 @@ Users can ask questions in German or English and receive answers grounded in rel
 
 Python, FastAPI, LangChain, Qdrant, BAAI/bge-m3, RAG, Drupal, Islandora.
 
-## My Contribution
-
-This was a collaborative university research project.
-
-- [Replace with components you personally implemented.]
-- [Replace with your testing, evaluation, or integration contributions.]
-
 ## Project Context
 
 - Institution: University of Koblenz, Germany
