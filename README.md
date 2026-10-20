@@ -29,6 +29,12 @@ Users can ask questions in German or English and receive answers grounded in rel
 
 Python, FastAPI, LangChain, Qdrant, BAAI/bge-m3, RAG, Drupal, Islandora.
 
+## Chatbot Interface
+
+The Archive Assistant enables researchers to ask natural-language questions about archival documents and receive answers with references to the source material.
+
+![Archive Assistant chatbot interface](docs/images/archive-assistant.jpeg)
+
 ## Project Context
 
 - Institution: University of Koblenz, Germany
